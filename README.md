@@ -4,7 +4,7 @@
   <img src="img/logo_passtek.png" alt="PassTek logo" width="200"/>
 </p>
 
-**PassTek** is a Go program that analyzes password policy and provides various statistics about it.
+**PassTek** is a Go program i made that analyzes password policy and provides various statistics about it.
 
 ## Features
 
